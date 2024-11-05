@@ -1,1 +1,1 @@
-<strong>Simple to Advance level python project </strong>
+<strong>Simple to Advance level python Execises and Project</strong>
